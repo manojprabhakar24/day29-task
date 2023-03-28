@@ -1,0 +1,14 @@
+{/* First process */}
+      {/* this is one type of method where
+       all process are done in single page */}
+    {/* <Base
+    heading="User details"
+    description="all user details"
+    
+    >
+    <EmployeeDetails/>
+   </Base>
+   <DashBoard/>
+   <Register/>  */}
+
+  {/* second process */}
